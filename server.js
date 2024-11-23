@@ -16,3 +16,4 @@ app.listen(3000, () => { // 3000 seria tipo uma porta, tipo uma senha, usada par
 
 
 
+//atualizando
